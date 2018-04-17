@@ -1,4 +1,4 @@
-package com.example.macintosh.nearbylocation.model;
+package com.example.macintosh.nearbylocation.model.nearby;
 
 public class Southwest {
     private String lng;

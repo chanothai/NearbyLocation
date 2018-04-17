@@ -1,6 +1,6 @@
 package com.example.macintosh.nearbylocation.remote;
 
-import com.example.macintosh.nearbylocation.model.MyPlace;
+import com.example.macintosh.nearbylocation.model.nearby.MyPlace;
 
 import retrofit2.Call;
 import retrofit2.http.GET;
